@@ -1,0 +1,23 @@
+{
+  "name": "lab-manual-alph",
+  "version": "1.0.0",
+  "description": "lab-manual-alph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RRorschach-G/lab-manual-alph.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RRorschach-G/lab-manual-alph/issues"
+  },
+  "homepage": "https://github.com/RRorschach-G/lab-manual-alph#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
